@@ -1,0 +1,5 @@
+arabert
+transformers
+accelerate>=0.20.1
+pandas
+torch
